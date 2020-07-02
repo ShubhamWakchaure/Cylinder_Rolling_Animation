@@ -127,4 +127,4 @@ for i = 1:length(t)
 end
 
 %% Closing the video file
-close(F); implay('New.avi');
+%%close(F); implay('New.avi');
